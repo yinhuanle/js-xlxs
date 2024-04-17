@@ -1,6 +1,6 @@
 # node index.js
 
-js 转成 xlxs 文件，下次编译先删除 data.xlsx
+js 转成 xlxs 文件
 
 # node tojs.js
 

@@ -2,7 +2,7 @@ const XLSX = require('xlsx');
 const fs = require('fs');
 
 // Load the xlsx file
-const workbook = XLSX.readFile('data.xlsx');
+const workbook = XLSX.readFile('中文需要翻译成英文.xlsx');
 
 // Initialize an empty object to store the data
 const data = {};
