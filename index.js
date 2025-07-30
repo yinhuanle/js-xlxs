@@ -2,6 +2,7 @@ const XLSX = require('xlsx');
 (async() => {
   const prez = [
     {
+      // 需要翻译的内容
       me: '我',
       notifyTemp: {
         seted: '已设置',
